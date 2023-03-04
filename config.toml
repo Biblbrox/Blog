@@ -1,0 +1,4 @@
+baseURL = 'http://Biblbroxxx.github.io/'
+languageCode = 'en-us'
+title = 'AleksKNotebook'
+theme = 'hugo-theme-learn'
