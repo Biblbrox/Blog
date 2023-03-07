@@ -1,4 +1,4 @@
-baseURL = 'http://Biblbroxxx.github.io/'
+baseURL = 'http://Biblbroxxx.github.io/Blog'
 languageCode = 'en-us'
 title = 'AleksKNotebook'
 theme = 'hugo-theme-learn'
